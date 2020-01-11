@@ -38,6 +38,6 @@ For other versions of our browser, please see:
 [Join the Q&A community](https://community.nano.com/) if you'd like to get more involved with Nano. You can [ask for help](https://community.nano.com/c/support-and-troubleshooting),
 [discuss features you'd like to see](https://community.nano.com/c/nano-feature-requests), and a lot more. We'd love to have your help so that we can continue improving Nano browser.
 
-Help us translate Brave to your language by submitting translations at https://www.transifex.com/nanobrowser/nano/
+Help us translate Nano browser to your language by submitting translations at https://www.transifex.com/nanobrowser/nano/
 
 Follow [@nanobrowser](https://twitter.com/nanobrowser) on Twitter for important news and announcements.
